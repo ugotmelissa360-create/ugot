@@ -1,0 +1,82 @@
+   1  cd ugot
+    2  cd documents
+    3  cd ugot
+    4  mkdir ugot
+    5  ls
+    6  cd ..
+    7  mkdir ugot
+    8  ls
+    9  cd ugot
+   10  ls
+   11  touch Readme.txt
+   12  toch Readme.md
+   13  git status
+   14  touch Readme.txt
+   15  cd ugot
+   16  cd document
+   17  mkdir ugot
+   18  ls
+   19  cd documents /ugot
+   20  cd documents/ugot
+   21  touch ugot
+   22  echo "# ugot" >> README.md
+   23  git init
+   24  git add README.md
+   25  git commit -m "first commit"
+   26  git branch -M main
+   27  git remote add origin https://github.com/ugotmelissa360-create/ugot.git
+   28  git pus -u origin main
+   29  git remote add origin https://github.com/ugotmelissa360-create/ugot.git
+   30  git branch -M main
+   31  git push -u origin main
+   32  pull
+   33  git push -u origin main
+   34  git status
+   35  git add .
+   36  git commit -m "first commit"
+   37  git config --global user.email "ugotmelissa360@gmail.com"
+   38  git config --global user.name "Melissa Ugot"
+   39  Omit --global
+   40  git status
+   41  git config --global user.name "ugotmelissa360-create"
+   42  git config --global user.email "ugotmelissa360@gmail.com"
+   43  git remote add origin https://github.com/ugotmelissa360-create/ugot.git
+   44  git push -u origin main
+   45  git status
+   46  git commit -m "first commit"
+   47  git branch -M main
+   48  git remote add origin https://github.com/ugotmelissa360-create/ugot.git
+   49  git push -u origin main
+   50  cd ..
+   51  cd ..
+   52  cd document
+   53  ls
+   54  git clone https://github.com/ugotmelissa360-create/ugot.git
+   55  git clone https://github.com/ugotmelissa360-create/ugot.git~
+   56  git clone https://github.com/ugotmelissa360-create/ugot.git
+   57  touch lool
+   58  history
+   59  git status
+   60  git remote add origin https://github.com/ugotmelissa360-create/ugot.git
+   61  touch history.txt
+   62  cd ..
+   63  cd users
+   64  cd MELISSA
+   65  cd ugot
+   66  ls
+   67  touch history.txt
+   68  history
+   69  git status
+   70  git commit -m "third commit"
+   71  git add .
+   72  git status
+   73  git commit -m "third commit"
+   74  git status
+   75  git push
+   76  touch
+   77  touch lol
+   78  start lol
+   79  touch wow.txt
+   80  start wow.txt
+   81  history
+
